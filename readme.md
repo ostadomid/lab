@@ -1,1 +1,1 @@
-Lab Repo
+Lab Repository
