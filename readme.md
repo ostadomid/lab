@@ -1,4 +1,3 @@
-# Welcome 
-***
-Lab Repository is a place for all.
+# Welcome
 
+Lab Repository is a place for all.
